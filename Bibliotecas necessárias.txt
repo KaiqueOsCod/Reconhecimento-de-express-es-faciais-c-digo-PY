@@ -2,3 +2,5 @@ Instalar as seguintes ferramentas
 
 pip install fer
 pip install --upgrade tensorflow
+
+Execute primeiramente o servidor, e então o cliente
