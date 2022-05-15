@@ -1,0 +1,4 @@
+Instalar as seguintes ferramentas
+
+pip install fer
+pip install --upgrade tensorflow
