@@ -1,3 +1,9 @@
+# Autores
+#Kaique Oliveira Santos
+#Henrique Pavani Rodrigues  
+#Felipe José Rico Ragazzi
+
+
 Instalar as seguintes ferramentas
 
 pip install fer
